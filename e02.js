@@ -18,6 +18,6 @@ function isAPangrams(str)
 }
 
 
-console.log(isAPangrams("abcdefghijklmnopqrstuvwxyz")) // test 1 : when it's true
+console.log(isAPangrams("The quick brown fox jumps over the lazy dog")) // test 1 : when it's true
 
-console.log(isAPangrams("Feel the magic in the air")) // test 2 : when it's false
+console.log(isAPangrams("Hello Efrei")) // test 2 : when it's false
